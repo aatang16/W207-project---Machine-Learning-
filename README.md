@@ -5,6 +5,6 @@
 - Final Presentation Slide Deck: 
 
 # Primary Files:
-- Data Folder: csv containing test and training dataset
+- Data Folder: contains csv files for test and train dataset
 - Module Folder: Python library containg all models and configuations 
 - runner.py: Python library to run all ML models
